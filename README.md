@@ -1,4 +1,4 @@
-# neurolab-nuxtjs
+# lab-nuxtjs
 
 ## Build Setup
 
